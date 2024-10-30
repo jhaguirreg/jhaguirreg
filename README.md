@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 ![jhaguirreg's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaguirreg&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 ## Contáctame por:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/jhon-fredy-aguirre-garcia-7aa4a4335/?jobid=1234)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)

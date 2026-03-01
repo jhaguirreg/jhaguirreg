@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![OverLeaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)  
 
 ## Mis proyectos publicados están en:
-![jhaguirreg's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaguirreg&layout=compact&cache_seconds=21600)
+![jhaguirreg's Github stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=jhaguirreg&layout=compact&cache_seconds=21600](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaguirreg&layout=compact))
 
 ## Contáctame por:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
